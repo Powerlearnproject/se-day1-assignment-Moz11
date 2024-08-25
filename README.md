@@ -32,6 +32,23 @@ Question 3
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Answer:
+Question 3 Answer
+
+The Software Development Life Cycle (SDLC) consists of several phases, each contributing to the successful creation and maintenance of software. Here’s a brief overview of each phase:
+
+1. **Requirement Gathering and Analysis**: This phase involves collecting and documenting the needs and expectations of the stakeholders. It helps in understanding what the software should do and defining its functional and non-functional requirements.
+
+2. **Design**: Based on the requirements, the system’s architecture and design are created. This phase includes designing system components, user interfaces, data structures, and how various elements will interact.
+
+3. **Implementation (Coding)**: In this phase, developers write the actual code based on the design documents. This is where the software’s functionality is built.
+
+4. **Testing**: The software is rigorously tested to identify and fix any defects or issues. Various types of testing, such as unit testing, integration testing, and system testing, are conducted to ensure the software meets the requirements and performs correctly.
+
+5. **Deployment**: After successful testing, the software is deployed to the production environment where it becomes available to users. This phase involves installing and configuring the software.
+
+6. **Maintenance**: Post-deployment, the software is monitored and maintained to address any issues that arise, implement updates, and improve functionality based on user feedback and changing requirements.
+
+These phases help ensure that software projects are managed effectively, resulting in high-quality software that meets user needs.
 
 
 Question 4
