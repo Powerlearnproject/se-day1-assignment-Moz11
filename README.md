@@ -127,8 +127,6 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Answer:
 
-Answer:
-
 A breakdown of the roles and responsibilities for each position:
 
 ### Software Developer
