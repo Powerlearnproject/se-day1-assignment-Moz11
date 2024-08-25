@@ -27,6 +27,28 @@ Identify and describe at least three key milestones in the evolution of software
 
 Answer:
 
+Question 2
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+
+
+
+Answer:
+
+These three key milestones can be used to describe the evolution of software engineering:
+
+1. **The Birth of Software Engineering (1968)**:
+   The term "software engineering" was officially coined during the NATO Software Engineering Conference in Garmisch, Germany, in 1968. This conference highlighted the growing complexity of software systems and the need for systematic approaches to software development. It marked the beginning of software engineering as a distinct field, focusing on applying engineering principles to software development.
+
+2. **The Introduction of the Waterfall Model (1970)**:
+   The Waterfall Model, introduced by Dr. Winston W. Royce in 1970, was one of the earliest methodologies for managing software development. This model emphasizes a sequential design process with distinct phases: requirements analysis, system design, implementation, testing, deployment, and maintenance. Although later criticized for its rigidity, the Waterfall Model laid the foundation for structured software development methodologies.
+
+3. **The Agile Manifesto (2001)**:
+   The Agile Manifesto, published in 2001 by a group of software developers, revolutionized software development by promoting iterative development, flexibility, and collaboration. It introduced key principles such as responding to change over following a plan and valuing individuals and interactions over processes and tools. Agile methodologies, including Scrum and Kanban, have since become widely adopted, emphasizing adaptive planning and continuous improvement. 
+
+These milestones represent significant shifts in the approach to software development, from early systematic methods to modern, adaptive practices.
+
+
 
 Question 3
 List and briefly explain the phases of the Software Development Life Cycle.
