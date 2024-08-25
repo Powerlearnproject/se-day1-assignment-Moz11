@@ -127,6 +127,52 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Answer:
 
+Answer:
+
+A breakdown of the roles and responsibilities for each position:
+
+### Software Developer
+**Roles:**
+- **Design and Development:** Write, test, and maintain code for software applications. This includes implementing features based on requirements.
+- **Problem-Solving:** Troubleshoot issues and debug code to ensure the software runs smoothly and efficiently.
+- **Collaboration:** Work with other developers, designers, and stakeholders to understand requirements and integrate different parts of the system.
+- **Documentation:** Create and maintain technical documentation for code and development processes.
+
+**Responsibilities:**
+- Writing clean, scalable, and efficient code.
+- Participating in code reviews to ensure code quality.
+- Keeping up with industry best practices and new technologies.
+- Contributing to the design and architecture of software systems.
+
+### Quality Assurance Engineer
+**Roles:**
+- **Testing:** Design, execute, and maintain test plans and test cases to ensure the software meets quality standards.
+- **Bug Reporting:** Identify, document, and track bugs and issues, working closely with developers to ensure they are resolved.
+- **Automation:** Develop and implement automated tests to streamline the testing process and improve efficiency.
+- **Process Improvement:** Analyze testing processes and suggest improvements to enhance the quality and performance of the software.
+
+**Responsibilities:**
+- Conducting manual and automated testing of software applications.
+- Ensuring compliance with industry standards and best practices for quality.
+- Collaborating with developers to understand features and identify potential issues.
+- Reporting on testing progress and results to stakeholders.
+
+### Project Manager
+**Roles:**
+- **Planning:** Develop project plans, including scope, timeline, and resources required.
+- **Coordination:** Manage and coordinate the activities of the project team, ensuring tasks are completed on schedule and within budget.
+- **Communication:** Serve as the primary point of contact between stakeholders and the development team, facilitating communication and resolving any issues that arise.
+- **Risk Management:** Identify potential risks to the project and develop strategies to mitigate them.
+
+**Responsibilities:**
+- Defining project goals, deliverables, and success criteria.
+- Tracking project progress and making adjustments as necessary.
+- Managing project budgets and resources.
+- Ensuring that all stakeholders are informed and engaged throughout the project lifecycle.
+
+Each role is integral to the success of a software project, and effective collaboration between these positions is essential for delivering high-quality software.
+
+
 
 Question 6
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
