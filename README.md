@@ -382,3 +382,16 @@ Overall, prompt engineering is essential for maximizing the usefulness and effec
 
 Question 2 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Answer 
+
+**The Vague prompt:** "Help me develop a software"
+
+**When Improved:**
+"As a Software developer, can you help develop a program that can add two numbers asking for user's input?"
+
+
+
+**Explanation:**
+The improved prompt is more effective because it clearly defines clearly what the user wants to achieve and the type.
+This specificity helps in providing a focused and relevant response, ensuring that the assistance is directly applicable to the user’s needs
